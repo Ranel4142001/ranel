@@ -45,9 +45,7 @@
                   <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
                      <div class="full">
                         <div class="center-desk">
-                           <div class="logo">
-                              <a href="{{url('/rooms')}}"><img src="images/logo.png" alt="#" /></a>
-                           </div>
+                           
                         </div>
                      </div>
                   </div>
@@ -121,7 +119,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage">
-                     <p  class="margin_0">Lorem Ipsum available, but the majority have suffered </p>
+                     <p  class="margin_0">Get a glimpse of the rooms that could be yours</p>
                   </div>
                </div>
             </div>
@@ -129,7 +127,7 @@
                <div class="col-md-4 col-sm-6">
                   <div id="serv_hover"  class="room">
                      <div class="room_img">
-                        <figure><img src="images/1. Standard Room.jpg" alt="#"/></figure>
+                        <figure><img src="images/Standard Room.jpg" alt="#"/></figure>
                      </div>
                      <div class="bed_room">
                         <h3>Standard Room</h3>
@@ -140,7 +138,7 @@
                <div class="col-md-4 col-sm-6">
                   <div id="serv_hover"  class="room">
                      <div class="room_img">
-                        <figure><img src="images/2. Family Room.jpg" alt="#"/></figure>
+                        <figure><img src="/images/Family Room.jpg" alt="#"/></figure>
                      </div>
                      <div class="bed_room">
                         <h3>Family Room</h3>
@@ -151,7 +149,7 @@
                <div class="col-md-4 col-sm-6">
                   <div id="serv_hover"  class="room">
                      <div class="room_img">
-                        <figure><img src="images/3. Honeymoon Suites.jpg" alt="#"/></figure>
+                        <figure><img src="/images/Honeymoon Suites.jpg" alt="#"/></figure>
                      </div>
                      <div class="bed_room">
                         <h3>Honeymoon Suites</h3>
@@ -162,7 +160,7 @@
                <div class="col-md-4 col-sm-6">
                   <div id="serv_hover"  class="room">
                      <div class="room_img">
-                        <figure><img src="images/5. Studio Room.jpg" alt="#"/></figure>
+                        <figure><img src="/images/Studio Room.jpg" alt="#"/></figure>
                      </div>
                      <div class="bed_room">
                         <h3>Studio Room</h3>
@@ -173,7 +171,7 @@
                <div class="col-md-4 col-sm-6">
                   <div id="serv_hover"  class="room">
                      <div class="room_img">
-                        <figure><img src="images/6. Suites.jpg" alt="#"/></figure>
+                        <figure><img src="images/Suites.png" alt="#"/></figure>
                      </div>
                      <div class="bed_room">
                         <h3>Suites</h3>
@@ -184,7 +182,7 @@
                <div class="col-md-4 col-sm-6">
                   <div id="serv_hover"  class="room">
                      <div class="room_img">
-                        <figure><img src="images/7. Bunk Room.jpg" alt="#"/></figure>
+                        <figure><img src="images/Bunk Room.png" alt="#"/></figure>
                      </div>
                      <div class="bed_room">
                         <h3>Bunk Room</h3>
@@ -206,14 +204,14 @@
                      <h3>Contact US</h3>
                      <ul class="conta">
                         <li><i class="fa fa-map-marker" aria-hidden="true"></i> Address</li>
-                        <li><i class="fa fa-mobile" aria-hidden="true"></i> +01 1234569540</li>
-                        <li> <i class="fa fa-envelope" aria-hidden="true"></i><a href="#"> demo@gmail.com</a></li>
+                        <li><i class="fa fa-mobile" aria-hidden="true"></i>09301071994</li>
+                        <li> <i class="fa fa-envelope" aria-hidden="true"></i><a href="#"> naz@gmail.com</a></li>
                      </ul>
                   </div>
                   <div class="col-md-4">
                      <h3>Menu Link</h3>
                      <ul class="link_menu">
-                        <li><a href="{{url('/home')}}">Home</a></li>
+                        <li><a href="{{url('/')}}">Home</a></li>
                         <li><a href="{{url('/about')}}"> about</a></li>
                         <li class="active"><a href="{{url('/rooms')}}">Our Room</a></li>
                         <li><a href="{{url('/seaviews')}}">Seaside Scenes</a></li>

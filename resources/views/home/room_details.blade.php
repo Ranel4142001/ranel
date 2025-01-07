@@ -41,7 +41,7 @@
                <div class="col-md-12">
                   <div class="titlepage">
                      <h2>Our Room</h2>
-                     <p>Lorem Ipsum available, but the majority have suffered </p>
+                     <p>Get a glimpse of the rooms that could be yours</p>
                   </div>
                </div>
             </div>
