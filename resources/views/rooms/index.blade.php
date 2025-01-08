@@ -138,7 +138,11 @@
                <div class="col-md-4 col-sm-6">
                   <div id="serv_hover"  class="room">
                      <div class="room_img">
+<<<<<<< HEAD
                         <figure><img src="images/Family Room.jpg" alt="#"/></figure>
+=======
+                        <figure><img src="/images/Family Room.jpg" alt="#"/></figure>
+>>>>>>> 899cc859f484a2aff9a82b2c7c8701c97e77875b
                      </div>
                      <div class="bed_room">
                         <h3>Family Room</h3>
@@ -149,7 +153,11 @@
                <div class="col-md-4 col-sm-6">
                   <div id="serv_hover"  class="room">
                      <div class="room_img">
+<<<<<<< HEAD
                         <figure><img src="images/Honeymoon Suites.jpg" alt="#"/></figure>
+=======
+                        <figure><img src="/images/Honeymoon Suites.jpg" alt="#"/></figure>
+>>>>>>> 899cc859f484a2aff9a82b2c7c8701c97e77875b
                      </div>
                      <div class="bed_room">
                         <h3>Honeymoon Suites</h3>
