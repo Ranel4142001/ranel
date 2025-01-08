@@ -10,7 +10,7 @@
             <div class="row">
                <div class="col-md-3 col-sm-6">
                   <div class="gallery_img">
-                     <figure><img src="" alt="#"/></figure>
+                     <figure><img src="images/Standard Room.jpg" alt="#"/></figure>
                   </div>
                </div>
                <div class="col-md-3 col-sm-6">
