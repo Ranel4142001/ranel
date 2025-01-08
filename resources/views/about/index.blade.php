@@ -45,10 +45,7 @@
                   <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
                      <div class="full">
                         <div class="center-desk">
-                           <div class="logo">
-                           <a href="{{ url('/about') }}"><img src="images/logo.png" alt="#" /></a>
-                              
-                           </div>
+                          
                         </div>
                      </div>
                   </div>
@@ -60,7 +57,7 @@
                         <div class="collapse navbar-collapse" id="navbarsExample04">
                            <ul class="navbar-nav mr-auto">
                               <li class="nav-item ">
-                              <a class="nav-link" href="{{url('/home')}}">Home</a>
+                              <a class="nav-link" href="{{url('/')}}">Home</a>
                               </li>
                               <li class="nav-item active">
                               <a class="nav-link" href="{{url('/about')}}">About</a>
@@ -128,7 +125,7 @@
                <div class="col-md-5">
                   <div class="titlepage">
                     
-                     <p class="margin_0">The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum. </p>
+                     <p class="margin_0">Our resort is a special place where you can relax and have fun. We have beautiful beaches, pools, and comfortable rooms. You can enjoy delicious food, play games, and go on exciting adventures. We make sure everyone has a wonderful time. </p>
                      <a class="read_more" href="Javascript:void(0)"> Read More</a>
                   </div>
                </div>
@@ -152,14 +149,14 @@
                      <h3>Contact US</h3>
                      <ul class="conta">
                         <li><i class="fa fa-map-marker" aria-hidden="true"></i> Address</li>
-                        <li><i class="fa fa-mobile" aria-hidden="true"></i> +01 1234569540</li>
-                        <li> <i class="fa fa-envelope" aria-hidden="true"></i><a href="#"> demo@gmail.com</a></li>
+                        <li><i class="fa fa-mobile" aria-hidden="true"></i> 09301071994</li>
+                        <li> <i class="fa fa-envelope" aria-hidden="true"></i><a href="#"> naz@gmail.com</a></li>
                      </ul>
                   </div>
                   <div class="col-md-4">
                      <h3>Menu Link</h3>
                      <ul  class="link_menu">
-                        <li><a href="{{ url('/home') }}">Home</a></li>
+                        <li><a href="{{ url('/') }}">Home</a></li>
                         <li  class="active"><a href="{{ url('/about') }}">About</a></li>
                         <li><a href="{{url('/rooms')}}">Our Room</a></li>
                         <li><a href="{{url('/seaviews')}}">Seaside Scenes</a></li>

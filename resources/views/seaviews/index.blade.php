@@ -45,9 +45,7 @@
                   <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
                      <div class="full">
                         <div class="center-desk">
-                           <div class="logo">
-                              <a href="{{url('/seaviews')}}"><img src="images/logo.png" alt="#" /></a>
-                           </div>
+                          
                         </div>
                      </div>
                   </div>
@@ -59,7 +57,7 @@
                         <div class="collapse navbar-collapse" id="navbarsExample04">
                            <ul class="navbar-nav mr-auto">
                               <li class="nav-item ">
-                                 <a class="nav-link" href="{{url('/home')}}">Home</a>
+                                 <a class="nav-link" href="{{url('/')}}">Home</a>
                               </li>
                               <li class="nav-item">
                                  <a class="nav-link" href="{{url('/about')}}">About</a>
@@ -124,42 +122,42 @@
             <div class="row">
                <div class="col-md-3 col-sm-6">
                   <div class="gallery_img">
-                     <figure><img src="images/gallery1.jpg" alt="#"/></figure>
+                     <figure><img src="/images/image.png" alt="#"/></figure>
                   </div>
                </div>
                <div class="col-md-3 col-sm-6">
                   <div class="gallery_img">
-                     <figure><img src="images/gallery2.jpg" alt="#"/></figure>
+                     <figure><img src="" alt="#"/></figure>
                   </div>
                </div>
                <div class="col-md-3 col-sm-6">
                   <div class="gallery_img">
-                     <figure><img src="images/gallery3.jpg" alt="#"/></figure>
+                     <figure><img src="" alt="#"/></figure>
                   </div>
                </div>
                <div class="col-md-3 col-sm-6">
                   <div class="gallery_img">
-                     <figure><img src="images/gallery4.jpg" alt="#"/></figure>
+                     <figure><img src="" alt="#"/></figure>
                   </div>
                </div>
                <div class="col-md-3 col-sm-6">
                   <div class="gallery_img">
-                     <figure><img src="images/gallery5.jpg" alt="#"/></figure>
+                     <figure><img src="" alt="#"/></figure>
                   </div>
                </div>
                <div class="col-md-3 col-sm-6">
                   <div class="gallery_img">
-                     <figure><img src="images/gallery6.jpg" alt="#"/></figure>
+                     <figure><img src="" alt="#"/></figure>
                   </div>
                </div>
                <div class="col-md-3 col-sm-6">
                   <div class="gallery_img">
-                     <figure><img src="images/gallery7.jpg" alt="#"/></figure>
+                     <figure><img src="" alt="#"/></figure>
                   </div>
                </div>
                <div class="col-md-3 col-sm-6">
                   <div class="gallery_img">
-                     <figure><img src="images/gallery8.jpg" alt="#"/></figure>
+                     <figure><img src="" alt="#"/></figure>
                   </div>
                </div>
             </div>
@@ -175,15 +173,15 @@
                   <div class=" col-md-4">
                      <h3>Contact US</h3>
                      <ul class="conta">
-                        <li><i class="fa fa-map-marker" aria-hidden="true"></i> Address</li>
-                        <li><i class="fa fa-mobile" aria-hidden="true"></i> +01 1234569540</li>
-                        <li> <i class="fa fa-envelope" aria-hidden="true"></i><a href="#"> demo@gmail.com</a></li>
+                        <li><i class="fa fa-map-marker" aria-hidden="true"></i>Address</li>
+                        <li><i class="fa fa-mobile" aria-hidden="true"></i>09301071994</li>
+                        <li> <i class="fa fa-envelope" aria-hidden="true"></i><a href="#"> </a>naz@gmail.com</li>
                      </ul>
                   </div>
                   <div class="col-md-4">
                      <h3>Menu Link</h3>
                      <ul class="link_menu">
-                        <li><a href="{{url('/home')}}">Home</a></li>
+                        <li><a href="{{url('/')}}">Home</a></li>
                         <li><a href="{{url('/about')}}"> about</a></li>
                         <li><a href="{{url('/rooms')}}">Our Room</a></li>
                         <li class="active"><a href="{{url('/seaviews')}}">Gallery</a></li>

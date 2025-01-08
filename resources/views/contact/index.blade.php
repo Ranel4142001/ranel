@@ -45,9 +45,7 @@
                   <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
                      <div class="full">
                         <div class="center-desk">
-                           <div class="logo">
-                              <a href="{{url('/contact')}}"><img src="images/logo.png" alt="#" /></a>
-                           </div>
+                           
                         </div>
                      </div>
                   </div>
@@ -59,7 +57,7 @@
                         <div class="collapse navbar-collapse" id="navbarsExample04">
                            <ul class="navbar-nav mr-auto">
                               <li class="nav-item ">
-                                 <a class="nav-link" href="{{url('/webhome')}}">Home</a>
+                                 <a class="nav-link" href="{{url('/')}}">Home</a>
                               </li>
                               <li class="nav-item">
                                  <a class="nav-link" href="{{url('/about')}}">About</a>
@@ -146,7 +144,7 @@
                <div class="col-md-6">
                   <div class="map_main">
                      <div class="map-responsive">
-                        <iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA0s1a7phLN0iaD6-UE7m4qP-z21pH0eSc&amp;q=Eiffel+Tower+Paris+France" width="600" height="400" frameborder="0" style="border:0; width: 100%;" allowfullscreen=""></iframe>
+                        <iframe src=""></iframe>
                      </div>
                   </div>
                </div>
@@ -163,14 +161,14 @@
                      <h3>Contact US</h3>
                      <ul class="conta">
                         <li><i class="fa fa-map-marker" aria-hidden="true"></i> Address</li>
-                        <li><i class="fa fa-mobile" aria-hidden="true"></i> +01 1234569540</li>
-                        <li> <i class="fa fa-envelope" aria-hidden="true"></i><a href="#"> demo@gmail.com</a></li>
+                        <li><i class="fa fa-mobile" aria-hidden="true"></i> 09301071994</li>
+                        <li> <i class="fa fa-envelope" aria-hidden="true"></i><a href="#"> naz@gmail.com</a></li>
                      </ul>
                   </div>
                   <div class="col-md-4">
                      <h3>Menu Link</h3>
                      <ul class="link_menu">
-                        <li><a href="{{url('/webhome')}}">Home</a></li>
+                        <li><a href="{{url('/')}}">Home</a></li>
                         <li><a href="{{url('/about')}}"> about</a></li>
                         <li><a href="{{url('/rooms')}}">Our Room</a></li>
                         <li><a href="{{url('/seaviews')}}">Seaside Scenes</a></li>
